@@ -1,0 +1,6 @@
+{
+  "name": "Shaolin Kungfu Chinese Restaurant",
+  "description": "Authentic Chinese cuisine & exceptional dining in Festac, Lagos. Itemized authentic menu, table bookings, WhatsApp ordering, and directions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
